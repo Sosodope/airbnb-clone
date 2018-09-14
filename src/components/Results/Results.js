@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import Image from "../../assets/flat.jpg";
 
-class Result extends React.Component {
+class Results extends React.Component {
   render() {
     return (
       <div className="home">
@@ -17,4 +17,4 @@ class Result extends React.Component {
   }
 }
 
-export default Result;
+export default Results;
